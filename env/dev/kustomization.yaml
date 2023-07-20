@@ -5,5 +5,5 @@ resources:
 - ../../base
 
 images:
-- name: ghcr.io/csantanapr/demo-app
+- name: ghcr.io/gitops-bridge-dev/demo-app
   newTag: latest
